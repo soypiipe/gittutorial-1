@@ -1,1 +1,3 @@
 Archivo prueba
+
+This article describes ways to generate and use secure shell (SSH) keys on a Windows computer to create and connect to a Linux virtual machine (VM) in Azure. To use SSH keys from a Linux or macOS client, see the quick or detailed guidance.
