@@ -9,4 +9,12 @@ fsd
 fsd
 f
 
-Gestionar repositorios remotos implica conocer cómo añadir repositorios nuevos, eliminar aquellos que ya no son válidos, gestionar ramas remotas e indicar si están bajo seguimiento o no, y más cosas. En esta sección veremos todos estos conceptos.
+Gestionar repositorios remotos implica conocer cÃ³mo aÃ±adir repositorios nuevos, eliminar aquellos que ya no son vÃ¡lidos, gestionar ramas remotas e indicar si estÃ¡n bajo seguimiento o no, y mÃ¡s cosas. En esta secciÃ³n veremos todos estos conceptos.
+
+$ cd grit
+$ git remote -v
+bakkdoor  git://github.com/bakkdoor/grit.git
+cho45     git://github.com/cho45/grit.git
+defunkt   git://github.com/defunkt/grit.git
+koke      git://github.com/koke/grit.git
+origin    git@github.com:mojombo/grit.git
